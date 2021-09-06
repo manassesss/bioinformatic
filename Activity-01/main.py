@@ -1,0 +1,10 @@
+input = "TTCCAGGCGTCATCTCCTATATTCTGGGTCCTCTGGGGTCTGGGTTTGCCTCTGTGTAGTCACGTACATTGACTTTTCATCTGTGATCGCGCAATGAACTTTGTACTACCGACACTCAAGTAGCACACTTGTACAGGAAACAAGTCGGGT"
+output = ""
+
+for i in input:
+    if i == 'T':
+        output += 'U'
+    else:
+        output += i
+    
+print("INPUT: ", input, "\nOUTPUT: ", output)
