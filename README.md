@@ -1,7 +1,7 @@
 # Bioinformatic's Activities
 In this repository, all exercises developed in the Bioinformatics discipline are allocated.
 
-## Fist Activitie
+## Fist Activity
 
 We had to write a program that transcribes a strand of DNA.
 
