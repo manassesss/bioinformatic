@@ -1,1 +1,1 @@
-# Bioiformatic's Activities
+# Bioinformatic's Activities
