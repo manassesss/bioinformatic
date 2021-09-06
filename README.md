@@ -10,7 +10,7 @@ Output: messenger RNA
 ````
 Test using the sequence from this [file](https://github.com/manassesss/bioinformatic/blob/main/Activity-01/TRANSCRICAO.sequenciasDNA.xlsx).
 
-## Second Activity
+## :petri_dish: Second Activity
 
 From the genetic code, program a ribosome. Write a program that simulates a ribosome. You can see how I did [here]()
 ```
