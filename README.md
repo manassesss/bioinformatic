@@ -1,4 +1,4 @@
-# Bioinformatic's Activities
+# :dna: Bioinformatic's Activities
 In this repository, all exercises developed in the Bioinformatics discipline are allocated.
 
 ## First Activity
