@@ -12,11 +12,11 @@ Test using the sequence from this [file](https://github.com/manassesss/bioinform
 
 ## :petri_dish: Second Activity
 
-From the genetic code, program a ribosome. Write a program that simulates a ribosome. You can see how I did [here]()
+From the genetic code, program a ribosome. Write a program that simulates a ribosome. You can see how I did [here](https://github.com/manassesss/bioinformatic/blob/main/Activity-02)
 ```
 Input: Messenger RNA strand (mRNA) and Genetic Code. 
 Output: Amino acid string (text file).
 ```
 Estimated time: 20 min.
 
-Test using this [file]()
+Test using this [file](https://github.com/manassesss/bioinformatic/blob/main/CodigoGenetico.txt)
