@@ -24,3 +24,9 @@ Test using this [file](https://github.com/manassesss/bioinformatic/blob/main/Cod
 ## :test_tube: Third Activity (in progress)
 
 In this activity, we had to develop a Smith-Waterman algorithm. It performs sequence alignment. It determines similar regions between two sequences of nucleic acid sequences or protein sequences.
+
+## :dna: Final Activity 
+
+In the final activity, we had to rebuild a structure from the Kmers provided.
+
+You can find the code [here](https://github.com/manassesss/bioinformatic/tree/main/Final-Activity)
